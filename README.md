@@ -1,2 +1,2 @@
 # platformer-game
-specialthanks to dissimulate forhelping to code this project.
+special thanks to code.org for showing me this code.
